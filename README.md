@@ -1,4 +1,4 @@
-Hi 👋 I'm vishisht kapoor
+Hi 👋 I'm Vishisht Kapoor
 ================================
 
 Frontend Web Developer
