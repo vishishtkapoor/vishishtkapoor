@@ -1,7 +1,7 @@
 Hi 👋 I'm Vishisht Kapoor
 ================================
 
-Frontend Web Developer
+Web Developer
 ----------------------
 
 React.js | Next.js | Firebase | Tailwind |
