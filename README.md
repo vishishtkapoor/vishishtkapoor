@@ -4,12 +4,12 @@ Hi 👋 I'm Vishisht Kapoor
 Web Developer
 ----------------------
 
-React.js | Next.js | Firebase | Tailwind |
+React | Next.js | Firebase | Tailwind |
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vishishtkapoor2@gmail.com](mailto:vishishtkapoor2@gmail.com)
 * 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Reactjs
+* 🤝  I'm open to collaborating on React
 
 ### Skills
 
